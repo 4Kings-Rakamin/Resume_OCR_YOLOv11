@@ -1,7 +1,7 @@
 streamlit
 ultralytics>=8.3.0
 easyocr
-opencv-python-headless
+opencv-python-headless==4.10.0.84
 pillow
 numpy
 pypdfium2
