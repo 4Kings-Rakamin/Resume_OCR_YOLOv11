@@ -1,0 +1,13 @@
+train: C:\Users\Agung\Videos\cvreader2\train
+val: C:\Users\Agung\Videos\cvreader2\valid
+test: C:\Users\Agung\Videos\cvreader2\test
+
+nc: 14
+names: ['Achievement', 'Certifications', 'Community', 'Contact', 'Education', 'Experience', 'Interests', 'Languages', 'Name', 'Profil', 'Projects', 'image', 'resume', 'skills']
+
+roboflow:
+  workspace: agung-46sqx
+  project: resume-parser-bchlq-1tnep
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/agung-46sqx/resume-parser-bchlq-1tnep/dataset/1
